@@ -1,3 +1,4 @@
+sudo apt update
 sudo apt install tmux vim
 
 mv ~/.tmux.conf ./Backup 2> /dev/null
