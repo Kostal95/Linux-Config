@@ -118,3 +118,4 @@ if ! shopt -oq posix; then
 fi
 alias start='cmd.exe /C start "" '
 export PATH=$PATH:/usr/local/go/bin
+[[ $TERM != "screen" ]] && exec tmux
