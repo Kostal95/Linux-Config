@@ -1,4 +1,5 @@
 # Linux-Config
-test3
-test2
-test
+# install
+./install.sh
+# deinstall
+./remove_conf.sh
